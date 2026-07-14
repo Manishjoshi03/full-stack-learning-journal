@@ -1,4 +1,4 @@
-# full-stack-learning-journal
+
 #  Full Stack Learning Journal
 
 ## About This Repository
